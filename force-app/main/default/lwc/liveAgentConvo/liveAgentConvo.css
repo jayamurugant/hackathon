@@ -1,0 +1,10 @@
+.einstein-logo-container {
+  text-align: center;
+  padding: 1rem;
+}
+
+.einstein-logo {
+  width: 150px;
+  height: auto;
+  margin-bottom: 1rem;
+}
